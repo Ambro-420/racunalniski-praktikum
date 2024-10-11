@@ -1,1 +1,1 @@
-# Racunalniskiprakikum,
+# Racunalniskipraktikum,
