@@ -1,7 +1,7 @@
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
-     V tem besedilu so v komentarjih napisana navodila za reševanje. -->
+     V tem besedilu so v komentarjih napisana navodila za reševanje. lalala -->
 
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
@@ -21,6 +21,7 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 
 <!-- 2. nivojski razdelek -->
 ## Domača naloga
+
 
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
