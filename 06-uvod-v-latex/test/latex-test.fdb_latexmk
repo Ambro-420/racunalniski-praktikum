@@ -1,0 +1,21 @@
+# Fdb version 4
+["pdflatex"] 1731675959.89751 "d:/programeranje_faks/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex" "latex-test.pdf" "latex-test" 1731675960.36072 0
+  "C:/Users/ambro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731675238 21145 ff19c2f6d7d51939ef722e8350d811a1 ""
+  "C:/Users/ambro/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi600/cmmi10.pk" 1731675240 14900 195384e9a574f21f1556c1c8fd6b4399 ""
+  "C:/Users/ambro/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk" 1731675242 10764 22a79e4cbbb3df7572db2d74ceb1b60e ""
+  "C:/Users/ambro/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi600/cmr7.pk" 1731675239 7736 798e924b02b6d129d19d4a66e9b8262f ""
+  "C:/Users/ambro/AppData/Local/MiKTeX/fonts/pk/ljfour/public/cm/dpi720/cmbx12.pk" 1731675243 17936 6b061d049c813bdfe53a254c69e75432 ""
+  "C:/Users/ambro/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731675222 11974184 a78f1c6e0bc7864e6846dbd19016cd5d ""
+  "D:/LaTeX/c/miktex/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "D:/LaTeX/c/miktex/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "D:/LaTeX/c/miktex/tex/latex/base/article.cls" 1730400195 20144 d7d3a15c7efd9458741458961c8a96e7 ""
+  "D:/LaTeX/c/miktex/tex/latex/base/size10.clo" 1730400195 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
+  "D:/LaTeX/c/miktex/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "d:/programeranje_faks/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex" 1731675959 188 ba56e91226ce5641df073590326d8ae5 ""
+  "latex-test.aux" 1731675960 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "latex-test.tex" 1731675959 188 ba56e91226ce5641df073590326d8ae5 ""
+  (generated)
+  "latex-test.aux"
+  "latex-test.log"
+  "latex-test.pdf"
+  (rewritten before read)
